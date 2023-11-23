@@ -1,0 +1,3 @@
+[submodule "aula-git-starter"]
+	path = aula-git-starter
+	url = https://github.com/DevFirstVaga/aula-git-starter
